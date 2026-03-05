@@ -27,7 +27,7 @@ sentiment-analysis/
 ## ⚙️ Kurulum
 
 ```bash
-git clone https://github.com/kullaniciadi/sentiment-analysis.git
+git clone https://github.com/keremyesildag/sentiment-analysis.git
 cd sentiment-analysis
 pip install -r requirements.txt
 ```
